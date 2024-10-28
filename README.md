@@ -2,4 +2,4 @@
 
 ## Concept Overview
 
-Chain of toughts is a Speculation in which the llm has to think according to some conditions (general conditions or validation), so that it should provide the right information. 
+**Chain of Thoughts** is a speculative reasoning framework for language models (LLMs) that guides them to think according to specific conditions or validations. This structured approach aims to enhance the accuracy and relevance of the information provided by the model.
