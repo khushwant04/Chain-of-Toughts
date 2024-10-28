@@ -1,4 +1,4 @@
-# Chain of Toughts
+# **Chain of Toughts**
 
 ## Concept Overview
 
